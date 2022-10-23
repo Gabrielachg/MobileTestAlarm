@@ -100,9 +100,9 @@ public class AlarmTest {
         Assertions.assertEquals(newTimeAlarm, mainMenu.getTimeAlarm(newTimeAlarm).getText());
 
         alarm.labelAlarm.click();
-        alarm.editLabelTextBox.setText("Nueva Alarma");
+        alarm.editLabelTextBox.setText("Alarma Modificada");
         alarm.submitLabelButton.click();
-        Assertions.assertEquals("Nueva Alarma", alarm.labelAlarm.getText());
+        Assertions.assertEquals("Alarma Modificada", alarm.labelAlarm.getText());
     }
 
     @Test
