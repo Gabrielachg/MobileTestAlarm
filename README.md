@@ -3,11 +3,7 @@ Proyect Final: Test Alarma
 
 Grupo 5
 
-Integrantes:
+Responsable:
 
-Gabriela Choque,
-Ximena Soto, 
-Kassandra Chavez,
-Cinthia Medina,
-Luis Quiroga,
-Stefany Fulla.
+Gabriela Choque Guevara
+
